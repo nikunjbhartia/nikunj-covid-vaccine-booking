@@ -1,0 +1,30 @@
+{
+    "auto_book": "yes-please",
+    "beneficiary_dtls": [
+        {
+            "age": 26,
+            "bref_id": "40746887181940",
+            "name": "Saket Bhartia",
+            "status": "Not Vaccinated",
+            "vaccine": ""
+        }
+    ],
+    "captcha_automation": "y",
+    "captcha_automation_api_key": "344615f63e35419573d22d45b4e76d67",
+    "fee_type": [
+        "Free",
+        "Paid"
+    ],
+    "location_dtls": [
+        {
+            "alert_freq": 3960,
+            "district_id": 725,
+            "district_name": "Kolkata"
+        }
+    ],
+    "minimum_slots": 1,
+    "refresh_freq": 15,
+    "search_option": 2,
+    "start_date": 1,
+    "vaccine_type": null
+}
